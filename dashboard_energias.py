@@ -3,7 +3,8 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 # Cargar los datos ya unidos
-df = pd.read_csv('C:/Users/HyA/Desktop/Projects/Energias Renovables/energia_total_y_renovables_mexico.csv')
+df = pd.read_csv('df = pd.read_csv('energia_total_y_renovables_mexico.csv')
+')
 
 # Asegúrate de que estos nombres coincidan con tu CSV:
 columnas_renovables = ['Hidroelectrica', 'Eolica', 'Solar', 'Geotermica', 'Biomasa', 'Maremotriz']
